@@ -36,7 +36,7 @@ focusing on logic design, optimization, and mastery of data structures.
 ## 🌐 Connect with Me  
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-akshatsao-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/akshatsao)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-OneMoreAC-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/OneMoreAC)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-sekiro0071-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/sekiro0071)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-akshatsao2-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/akshatsao2)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Sao-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshat-sao-88355529b/)  
 
