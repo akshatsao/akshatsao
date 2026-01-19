@@ -8,7 +8,7 @@ focusing on logic design, optimization, and mastery of data structures.
 
 ## 🏆 Achievements  
 
-- 🎯 **CodeChef Rating**: `1419 (Div 3)` — 9 rated contests  
+- 🎯 **CodeChef Rating**: `1419 (Div 3)` — 10 rated contests  
 - 🏅 **Codeforces Rating**: `880` — steady progress with weekly practice  
 - 🖥 **HackerRank Certifications**:  
   - ⭐⭐⭐⭐⭐ in **C++ & Algorithms**  
