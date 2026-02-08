@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akshat Sao  
 
 💡 Passionate about **competitive programming** and **data-driven problem solving**.  
-I’ve solved **200+ algorithmic challenges** across **CodeChef, Codeforces, and HackerRank**,  
+I’ve solved **500+ algorithmic challenges** across **CodeChef, Codeforces, and HackerRank**,  
 focusing on logic design, optimization, and mastery of data structures.  
 
 ---
